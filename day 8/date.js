@@ -1,0 +1,10 @@
+const date = new date();
+console.log(date);
+console.log(date.getFullYear());
+console.log(date.getFullMonth());
+console.log(date,getDay());
+const userDOB = new date("2025-09-26");
+console.log(userDOB);
+console.log(userDOB.getFullYear());
+console.log(userDOB.getFullMonth()+1);
+console.log(userDOB.getDay());

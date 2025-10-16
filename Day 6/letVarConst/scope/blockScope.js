@@ -13,5 +13,5 @@ console.log("value of pi in global scope",pi);
     console.log("value of b in global scope",b);//error
      console.log("value of c in global scope",c);//error
 
- }
  
+ }
