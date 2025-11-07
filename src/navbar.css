@@ -1,0 +1,7 @@
+#nav{
+    display: flex;
+    height: 20px;
+    width: 60px;
+    background-color: bisque;
+    border: 2px solid black;
+}
